@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+.full{
+	font-family: "Roboto",'Times New Roman', Times, serif;
+	margin:auto;
+	overflow: hidden;
+
+}
+.top1 {
+	background: aquamarine;
+	display: flex;
+	justify-content: space-between;
+}
+.top1 .portfolio{
+	background: rgb(175, 17, 43);
+}
+.top1 .photo img{
+	display: inline-block;
+	background: white;
+	margin-left: 600px;
+	padding: 20px;
+	height: 200px;
+	width: 200px;
+}
+.abcd{
+	background-color: rgb(241, 200, 229);
+	text-align: center;
+	
+}
+.abcd .abcd1
+{
+	display: flex;
+}
+.abcd .abcd1 .a img{
+	display: inline-block;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+.abcd .abcd1 .b p{
+	padding: 100px;
+	font-size: medium;
+
+}
+.abcd .abcd2{
+	display: flex;
+}
+.abcd .abcd2 .c p{
+	padding: 100px;
+	font-size: medium;
+}
+.abcd .abcd2 .d img{
+	display: inline-block;
+    padding: 20px;
+    height: 250px;
+    width: 250px;
+}
+.abcd .efg{
+	text-align: center;
+}
+.abcd .efg .efg1{
+	display: flex;
+}
+.abcd .efg .efg1 .e img{
+	display: inline-block;
+    padding: 20px;
+    height: 200px;
+    width: 200px;	
+}
+.abcd .efg .efg1 .f p{
+	padding: 100px;
+	font-size: medium;
+}
+.abcd .efg .efg2{
+	display: flex;
+}
+.abcd .efg .efg2 .g p{
+	padding: 100px;
+	font-size: medium;
+		
+}
+.abcd .efg .efg2 .h img{
+	display: inline-block;
+    padding: 20px;
+    height: 250px;
+    width: 250px;	
+}
+.footer{
+	background-color: slategray;
+}
+
+
+
